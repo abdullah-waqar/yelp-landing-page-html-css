@@ -139,7 +139,7 @@ nav p {
     margin: 30px; justify-content: space-between;
 }
 .activities {
-    border: 1px solid grey;
+    border: 1px solid #ebebeb;
     padding: 10px;
     margin: 10px;
    
@@ -171,7 +171,7 @@ nav p {
 .box {
     width: 200px;
     height: 200px;
-    border: 1px solid rgb(166, 162, 162);
+    border: 1px solid #ebebeb;
     border-radius: 5px;
     flex-direction: column;
     justify-content: center;
@@ -188,4 +188,8 @@ nav p {
     font-size: 1.2rem;
 }
 
+/* FOOTER SECTION */
 
+footer {
+
+}
