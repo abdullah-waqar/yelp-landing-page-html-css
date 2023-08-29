@@ -125,3 +125,33 @@ nav p {
     cursor: pointer;
     text-decoration: underline  ;
 }
+
+
+/* RECENT ACTIVITY SECTION */
+
+.heading{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 1.5rem;
+}
+
+.all-activities {
+    margin: 30px; justify-content: space-between;
+}
+.activities {
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 10px;
+   
+}
+.info {
+    margin-left: 10px;
+}
+
+.activities > p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: blue;
+}
+
+
