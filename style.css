@@ -191,5 +191,14 @@ nav p {
 /* FOOTER SECTION */
 
 footer {
+    background-color: #f7f7f7;
+    justify-content: space-around;
+ 
 
+}
+
+.footer-section {
+    display: flex;
+    justify-content: space-around;
+  
 }
