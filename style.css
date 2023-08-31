@@ -192,13 +192,26 @@ nav p {
 
 footer {
     background-color: #f7f7f7;
-    justify-content: space-around;
- 
+    margin-left: 0;
+    margin-top: 5%;
+  
 
 }
 
 .footer-section {
     display: flex;
     justify-content: space-around;
+    padding: 20px;
+    margin-left: 0 !important; 
   
+}
+
+#footer-section-id {
+    background-color: #f7f7f7;
+    margin-left: 0 !important;
+}
+
+.footer-section p {
+    margin-top: 10px;
+    cursor: pointer;
 }
